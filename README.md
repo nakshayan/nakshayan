@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! 👋
+Looks like you've found my old profile! [Here's my new one.](https://github.com/animalat)
 
 <!--
 **nakshayan/nakshayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
